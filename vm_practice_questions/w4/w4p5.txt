@@ -25,4 +25,3 @@ Ghana, Accra; Africa
 ```
 
 Write a bash script ` script.sh ` using ` cut ` to redirect only the countries and its capitals of ` file.txt ` in the format ` Country, Capital ` (Eg. ` India, New Delhi `) to file named ` out.txt `.
-
