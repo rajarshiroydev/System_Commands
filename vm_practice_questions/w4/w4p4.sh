@@ -1,0 +1,1 @@
+grep -v 'we' twocities.txt > out.txt

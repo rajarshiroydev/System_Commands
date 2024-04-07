@@ -1,0 +1,1 @@
+grep -v '^d' | grep 'Jan' > out.txt

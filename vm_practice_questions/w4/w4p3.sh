@@ -1,0 +1,1 @@
+grep '^[A-Z]' twocities.txt | grep -i 'it' | wc -l
